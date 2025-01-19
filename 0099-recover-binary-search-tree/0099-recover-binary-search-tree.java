@@ -1,7 +1,5 @@
 class Solution {
-    // public void recoverTree(TreeNode root) {
-        
-    // }
+    
 public void recoverTree(TreeNode root) {
 	//Morris-traversal
 	
